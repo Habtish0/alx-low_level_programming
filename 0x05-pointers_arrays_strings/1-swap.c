@@ -3,17 +3,16 @@
 
 
 /**
- * reset_to_98 - function that takes a pointer to an integer parameter
- * @n: integer pointer
- * Return: 0 Success
+ * swap_int - swaps the values of two integers
+ * @a: integer to swap
+ * @b: integer to swap
  */
 
-
-
-void reset_to_98(int *n)
-
+void swap_int(int *a, int *b)
 {
+		 	int c = *a;
 
-		*n = 98;
+			*a = *b;
 
+			*b = c;
 }
