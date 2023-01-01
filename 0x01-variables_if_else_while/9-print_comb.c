@@ -13,7 +13,7 @@ int main(void)
 		if (num <= '8')
 		{
 			putchar(',');
-			putchar('\t');
+			putchar(' ');
 		}
 	}
 	putchar('\n');
