@@ -11,10 +11,9 @@ int _isalpha(int c)
 	{
 		c = 1;
 	}
-	else 
+	else
 	{
 		c = 0;
 	}
 	return (c);
 }
-	
