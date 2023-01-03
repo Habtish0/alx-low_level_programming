@@ -12,5 +12,5 @@ void main(void)
 	{
 		_putchar(ch);
 	}
-	return (void);
+	_putchar(ch);
 }
