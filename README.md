@@ -1,1 +1,1 @@
-0x0F. C - Function pointersMY First time learning C
+MY First time learning C
